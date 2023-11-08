@@ -7,7 +7,7 @@
 #### A data lake is a large storage unit that contains all types of raw, unfiltered data from an enterprise. A data lake can store data in any format, such as text, images, audio, video, etc. 
 #### A data lake does not impose any schema or structure on the data, which means the data can be accessed and processed in different ways. A data lake can also be used as the basis for a data warehouse or a data mart, so that the data is then made available in structured form in the data warehouse or data mart from there⁶.
 
-###To summarize, 
+### To summarize, 
 - a data lake contains all raw data that an organization has, while a data mart has filtered and well-structured data prepared for a specific function or department. A data mart is a smaller and more focused version of a data warehouse, which is a larger and more comprehensive version of a data lake. 
 - A data lake can store any kind of data, while a data mart can only store structured data. A data lake can support a variety of analytics and machine learning applications, while a data mart can only support specific analyses related to its topic or function.
 
